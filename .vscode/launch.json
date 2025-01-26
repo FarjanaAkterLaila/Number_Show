@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Industrial_Training/Number_Show",
-      "program": "d:/Industrial_Training/Number_Show/build/Debug/outDebug",
+      "cwd": "d:/Industrial_Training/Number_Show/.vscode",
+      "program": "d:/Industrial_Training/Number_Show/.vscode/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

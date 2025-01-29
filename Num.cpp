@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 void printFibonacci(int n) {
     int a = 0, b = 1, c;
     cout << a << " " << b << " ";
@@ -14,6 +13,7 @@ void printFibonacci(int n) {
 }
 
 int main() {
+    //  Fibonacci part 
     int n = 10; 
     printFibonacci(n);
     return 0;
